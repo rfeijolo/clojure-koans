@@ -3,7 +3,7 @@
 
 (meditations
   "There are many ways to generate a sequence"
-  (= __ (range 1 5))
+  (= (range 1 5))
 
   "The range starts at the beginning by default"
   (= __ (range 5))
